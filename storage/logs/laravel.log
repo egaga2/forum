@@ -1,0 +1,16 @@
+[2023-05-03 16:21:59] production.ERROR: Declaration of App\Page::sluggable() must be compatible with Cviebrock\EloquentSluggable\Sluggable::sluggable(): array {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\Page::sluggable() must be compatible with Cviebrock\\EloquentSluggable\\Sluggable::sluggable(): array at C:\\xampp\\htdocs\\ayf\\app\\Page.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2023-05-03 16:22:15] production.ERROR: Declaration of App\Page::sluggable() must be compatible with Cviebrock\EloquentSluggable\Sluggable::sluggable(): array {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\Page::sluggable() must be compatible with Cviebrock\\EloquentSluggable\\Sluggable::sluggable(): array at C:\\xampp\\htdocs\\ayf\\app\\Page.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2023-05-03 16:42:01] production.ERROR: Declaration of App\Page::sluggable() must be compatible with Cviebrock\EloquentSluggable\Sluggable::sluggable(): array {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\Page::sluggable() must be compatible with Cviebrock\\EloquentSluggable\\Sluggable::sluggable(): array at C:\\xampp\\htdocs\\ayf\\app\\Page.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2023-05-03 16:46:55] production.ERROR: Declaration of App\Page::sluggable() must be compatible with Cviebrock\EloquentSluggable\Sluggable::sluggable(): array {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\Page::sluggable() must be compatible with Cviebrock\\EloquentSluggable\\Sluggable::sluggable(): array at C:\\xampp\\htdocs\\ayf\\app\\Page.php:17)
+[stacktrace]
+#0 {main}
+"} 
